@@ -1,0 +1,26 @@
+{
+  "name": "vue-ally",
+  "version": "0.0.1",
+  "description": "Accessible Vue component library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borromeo47/vue-ally.git"
+  },
+  "keywords": [
+    "vue",
+    "a11y",
+    "accessibility",
+    "ui",
+    "component"
+  ],
+  "author": "Daniel Thompson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/borromeo47/vue-ally/issues"
+  },
+  "homepage": "https://github.com/borromeo47/vue-ally#readme"
+}
